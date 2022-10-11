@@ -18,7 +18,6 @@ A HTML webpage that uses floats to make columns to display information and pictu
 
 ## Known Bugs
 * The email link (i.e Get in Touch) is not working.
-* When refreshing the page, nothing displays. I am still working on it.
 
 
 ## License
