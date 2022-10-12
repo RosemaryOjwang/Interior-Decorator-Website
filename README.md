@@ -1,27 +1,23 @@
 # Ojwangas Interior Decorators
->
-By **Rosemary Ojwang**
-A HTML webpage for an interior decorator.
+
+#### _By **Rosemary Ojwang**_
+#### _A HTML webpage for an interior decorator._
 >
 ## Technologies Used
-* HTML
-* CSS
+* _HTML_
+* _CSS_
 
 ## Description
->
-A HTML webpage that uses floats to make columns to display information and pictures for "before", "during" and "after" renovations.
->
+
+_A HTML webpage that uses floats to make columns to display information and pictures for "before", "during" and "after" renovations._
+
 ## Setup/Installation Requirements
-1. Clone this repository to your desktop.
-2. Navigate to the top level of the directory.
-3. Open [interior-decoration.html](interior-decoration.html) in your browser.
-
-## Known Bugs
-* The email link (i.e Get in Touch) is not working.
-
+1. _Clone this repository to your desktop._
+2. _Navigate to the top level of the directory._
+3. _Open [interior-decoration.html](interior-decoration.html) in your browser._
 
 ## License
->
-[MIT](https://opensource.org/licenses/MIT)
->
+
+_[MIT](https://opensource.org/licenses/MIT)_
+
 Copyright (c) _2020_ _Rosemary Ojwang_
