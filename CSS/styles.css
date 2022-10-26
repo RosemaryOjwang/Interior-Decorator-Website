@@ -4,6 +4,9 @@
   background-size: cover;
   background-attachment: fixed;
 }*/
+.scroller{
+  overflow: scroll;
+}
 
 h1 {
   color: #FFFFFF;
