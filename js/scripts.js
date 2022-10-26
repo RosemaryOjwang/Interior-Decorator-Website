@@ -16,11 +16,8 @@ window.onload = function () {
     textColor = randomColor();
     body.style.color = textColor;
   };
-  body.onclick = function () {
-    body.scrollTo({
-      top: 1000,
-      left: 150,
-      behavior: 'smooth'
-    });
+  let scroller = window.document.querySelector(".scroller");
+  scroller.onclick = function () {
+    window.scrollTo(0, 20);
   };
 };
